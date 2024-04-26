@@ -1,5 +1,7 @@
 # pydanticutils
 [![ci status](https://github.com/rupurt/pydanticutils/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/rupurt/pydanticutils/actions/workflows/ci.yaml)
+![pypi](https://img.shields.io/pypi/v/pydanticutils.svg)
+![versions](https://img.shields.io/pypi/pyversions/pydanticutils.svg)
 
 Pydantic utility helpers
 
