@@ -35,8 +35,6 @@ test/typecheck:
 	./scripts/test/typecheck
 test/run:
 	./scripts/test/run
-test/ci:
-	./scripts/test/ci
 test/watch:
 	./scripts/test/watch
 test/nocapture:
