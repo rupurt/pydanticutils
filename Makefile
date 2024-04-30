@@ -42,8 +42,8 @@ test/nocapture:
 test/coverage:
 	./scripts/test/coverage
 
-distribution: distribution/build distribution/publish
-distribution/build:
-	./scripts/distribution/build
-distribution/publish:
-	./scripts/distribution/publish
+pypi: pypi/build pypi/publish
+pypi/build:
+	./scripts/pypi/build
+pypi/publish:
+	./scripts/pypi/publish
