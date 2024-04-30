@@ -33,15 +33,11 @@
 
         buildInputs = with pkgs;
           [
-            ccache
-            zlib
-            openssl
             (python311Full.withPackages (ps:
               with ps; [
                 pip
                 setuptools
               ]))
-            uv
           ]
           ++ pkgs.lib.optionals (pkgs.stdenv.isLinux) [
             pythonManylinuxPackages.manylinux1
