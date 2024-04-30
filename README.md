@@ -3,7 +3,7 @@
 ![pypi](https://img.shields.io/pypi/v/pydanticutils.svg)
 ![versions](https://img.shields.io/pypi/pyversions/pydanticutils.svg)
 
-Pydantic utility helpers
+[Pydantic](https://docs.pydantic.dev/latest/) utility helpers
 
 ## Usage
 
