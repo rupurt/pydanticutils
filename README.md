@@ -44,17 +44,17 @@ This repository manages the dev environment as a Nix flake and requires [Nix to 
 > nix develop -c $SHELL
 ```
 
-```shell
+```console
 > make setup
 ```
 
-```shell
+```console
 > make test
 ```
 
 ## Publish Package to PyPi
 
-```shell
+```console
 > make pypi
 ```
 
