@@ -30,4 +30,4 @@ jobs:
       - name: Tests
         run: make test/run
       - name: Coverage
-        run: make test/run
+        run: make test/coverage
