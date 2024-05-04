@@ -48,9 +48,6 @@
         ];
 
         venvDir = ".venv";
-        postShellHook = ''
-          export PATH=$(realpath .)/bin:$PATH
-        '';
       };
     });
   in
