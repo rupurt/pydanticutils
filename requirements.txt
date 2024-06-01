@@ -8,9 +8,9 @@ annotated-types==0.6.0 \
     --hash=sha256:0641064de18ba7a25dee8f96403ebc39113d0cb953a01429249d5c7564666a43 \
     --hash=sha256:563339e807e53ffd9c267e99fc6d9ea23eb8443c08f112651963e24e22f84a5d
     # via pydantic
-pydantic==2.7.1 \
-    --hash=sha256:e029badca45266732a9a79898a15ae2e8b14840b1eabbb25844be28f0b33f3d5 \
-    --hash=sha256:e9dbb5eada8abe4d9ae5f46b9939aead650cd2b68f249bb3a8139dbe125803cc
+pydantic==2.7.2 \
+    --hash=sha256:71b2945998f9c9b7919a45bde9a50397b289937d215ae141c1d0903ba7149fd7 \
+    --hash=sha256:834ab954175f94e6e68258537dc49402c4a5e9d0409b9f1b86b7e934a8372de7
     # via
     #   pydantic-settings
     #   pydanticutils (pyproject.toml)
