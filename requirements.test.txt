@@ -466,9 +466,9 @@ pyproject-hooks==1.1.0 \
     # via
     #   build
     #   pip-tools
-pyright==1.1.365 \
-    --hash=sha256:194d767a039f9034376b7ec8423841880ac6efdd061f3e283b4ad9fcd484a659 \
-    --hash=sha256:d7e69000939aed4bf823707086c30c84c005bdd39fac2dfb370f0e5be16c2ef2
+pyright==1.1.369 \
+    --hash=sha256:06d5167a8d7be62523ced0265c5d2f1e022e110caf57a25d92f50fb2d07bcda0 \
+    --hash=sha256:ad290710072d021e213b98cc7a2f90ae3a48609ef5b978f749346d1a47eb9af8
     # via pydanticutils (pyproject.toml)
 pytest==8.2.1 \
     --hash=sha256:5046e5b46d8e4cac199c373041f26be56fdb81eb4e67dc11d4e10811fc3408fd \
